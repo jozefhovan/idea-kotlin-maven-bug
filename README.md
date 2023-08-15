@@ -1,0 +1,1 @@
+# idea-kotlin-maven-bug
