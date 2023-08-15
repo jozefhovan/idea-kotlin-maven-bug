@@ -12,4 +12,4 @@ How to reproduce bug in Intellij Idea (2023.2):
 * (Menu) File -> Project Structure -> Project Settings -> Modules -> idea-java -> Dependencies -> Module SDK ->
   * stays set to 11
 * (Menu) File -> Project Structure -> Project Settings -> Modules -> idea-kotlin -> Dependencies -> Module SDK 
-  * **is reset to java 8 (probably from Project SDK) to 11**
+  * **is resets Module SDK to java 8 (probably from Project SDK)**
